@@ -46,7 +46,7 @@ function renderCartItems(){
                 <div class="cart-item margin-top--2 items-item">
                     <div class="cart-item--header ">
                         <h3 class="title-4">${element.title}</h3>
-                        <button class="cart-remove" onclick='delet(${element.id})'><img src='/assets/img/trash.svg'></button>
+                        <button class="cart-remove" onclick='delet(${element.id})'><img src='./assets/img/trash.svg'></button>
                     </div>
                     <div class="cart-item-tag">
                         <span class="text-3">${element.enterprise}</span>
