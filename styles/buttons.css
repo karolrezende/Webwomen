@@ -1,0 +1,18 @@
+.button-1{
+    background-color: var(--color-brand-1);
+    border: none;
+    border-radius: 8px;
+    color: var(--color-grey-6);
+}
+.button-1:hover{
+    background-color: var(--color-brand-2);
+}
+.cart-remove{
+    background-color: var(--color-grey-5);
+    border: none;
+    padding: 8px;
+    border-radius: 8px;
+}
+.cart-remove:hover{
+    background-color: var(--color-grey-3);
+}

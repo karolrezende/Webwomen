@@ -1,0 +1,14 @@
+.title-1{
+    color: var(--color-grey-6);
+}
+.title-5{
+    color: var(--color-grey-5);
+    font-size: 16px;
+    font-weight: 300;
+}
+.text-3{
+    font-size: 14px;
+}
+.text-1{
+    font-weight: 400;
+}
