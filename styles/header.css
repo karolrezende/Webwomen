@@ -2,7 +2,7 @@
     background-position: top;
     background-size: cover;
     height: 650px;
-    background-image: url(./assets/img/background.png);
+    background-image: url(../assets/img/background.png);
 }
 .bkg{
     background: rgba(0, 0, 0, 0.5);
